@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is master text file.
 Here we learn conflict.
+=======
+this is master text file.
+it is same as master text file.
+>>>>>>> branch1
