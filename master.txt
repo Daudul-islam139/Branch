@@ -1,0 +1,2 @@
+This is master text file.
+Here we learn conflict.
