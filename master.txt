@@ -1,0 +1,2 @@
+this is master text file.
+it is same as master text file.
